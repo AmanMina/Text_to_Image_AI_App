@@ -1,6 +1,6 @@
 # Text To Image Generation using Stable Diffusion
 
-![Banner Image](path/to/your/banner/image.png)
+
 
 ## Overview
 
